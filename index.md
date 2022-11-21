@@ -1,12 +1,13 @@
-# Free Training
+# Security Tool Training
 [Splunk](https://workplus.splunk.com/veterans) -- Main Logging solution for the whole world. SIEM (Security Information and Event Management)
 
+[Palo Alto Networks](https://beacon.paloaltonetworks.com/student/catalog/list?category_ids=25395-fundamentals)
 
-### [AWS Cloud Training](https://aws.training)
+[Create Account](https://beacon.paloaltonetworks.com/student/page/930397-customer-registration?sid_i=1) -- for access to free training.
 
-Start with:
+## [AWS Cloud Training](https://aws.training)
 
-  [AWS Cloud Practitioner Essentials](https://tinyurl.com/ybmwex5e) -- Free
+[AWS Cloud Practitioner Essentials](https://tinyurl.com/ybmwex5e) -- Free
   
 # Online Training Sites
   [A Cloud Guru](https://acloudguru.com/) -- $350/yr
