@@ -16,8 +16,20 @@ Start with:
 
   [Pluralsite](https://www.pluralsight.com/) -- $300/yr
 
+# Certifications
+[Security Plus](https://www.comptia.org/certifications/security) -- $392
+
+[Network Plus](https://www.comptia.org/certifications/network) -- $358
+
+[AWS Cloud Practitioner](https://aws.amazon.com/certification/exams/) -- $100
+
 ## Programming Sites
   [Python Coding](https://www.freecodecamp.org/news/freecodecamp-python-courses-ranked-from-best-to-worst/) -- Free
+
+## DevOps Training
+[Terraform AWS Training](https://developer.hashicorp.com/terraform/tutorials/aws-get-started)
+
+[Github Training](https://github.com/skills/introduction-to-github)
 
 # DOD Programs
   [SkillBridge](https://doi.gov/veterans/skillbridge)
