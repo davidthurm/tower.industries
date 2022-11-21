@@ -1,7 +1,5 @@
-
-
 # Free Training
-[Splunk](https://workplus.splunk.com/veterans) -- Main Logging solution for the whole world. SIEM Security Information and Event Management
+[Splunk](https://workplus.splunk.com/veterans) -- Main Logging solution for the whole world. SIEM (Security Information and Event Management)
 
 
 ### [AWS Cloud Training](https://aws.training)
