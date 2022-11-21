@@ -39,3 +39,14 @@ If you treat it like a full time job 8am - 5pm Monday thru Saturday you can comp
 # Jobs
 
 [Accenture Federal Services](https://www.accenture.com/us-en/careers/local/military-veterans)
+
+# Home Lab
+[Install Linux on your windows computer](https://learn.microsoft.com/en-us/windows/wsl/install)
+
+[Setup a Free AWS cloud account](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
+
+[Okta for Developers](https://developer.okta.com/signup/)
+
+[Vmware Advantage](https://www.vmug.com/membership/vmug-advantage-membership/) -- $200/yr
+
+[Splunk Free Trial](https://www.splunk.com/en_us/download.html?locale=en_us)
