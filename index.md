@@ -1,16 +1,14 @@
 
 
 # Free Training
-https://workplus.splunk.com/veterans
+[Splunk](https://workplus.splunk.com/veterans)
 
-https://www.aws.training/
 
-### AWS Cloud Training -- https://aws.training
+### [AWS Cloud Training](https://aws.training)
 
 Start with:
+
   [AWS Cloud Practitioner Essentials](https://tinyurl.com/ybmwex5e)
-  
-  
   
 # Online Training Sites
 [A Cloud Guru](https://acloudguru.com/) -- $350/yr
@@ -29,7 +27,7 @@ Start with:
 
 ## Western Governors University
 If you treat it like a full time job 8am - 5pm Monday thru Saturday you can complete the 4 year degree in 6-12 months.
-[Bachelors Program](https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program.html)
+[Bachelors Program](https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program.html) -- $7k/yr
 [Veteran Program](https://www.wgu.edu/student-experience/learning/military-va.html)
 
 
