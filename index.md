@@ -27,7 +27,9 @@ Start with:
 
 ## Western Governors University
 If you treat it like a full time job 8am - 5pm Monday thru Saturday you can complete the 4 year degree in 6-12 months.
+
 [Bachelors Program](https://www.wgu.edu/online-it-degrees/information-technology-bachelors-program.html) -- $7k/yr
+
 [Veteran Program](https://www.wgu.edu/student-experience/learning/military-va.html)
 
 
