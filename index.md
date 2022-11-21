@@ -37,7 +37,7 @@ If you treat it like a full time job 8am - 5pm Monday thru Saturday you can comp
   [Veteran Program](https://www.wgu.edu/student-experience/learning/military-va.html)
 
 ## Nashville Software School
-[Veteran Info]([https://nashvillesoftwareschool.com/](https://nashvillesoftwareschool.com/community/veterans-info/)) -- $18k for 36 weeks
+[Veteran Info](https://nashvillesoftwareschool.com/community/veterans-info/) -- $18k for 36 weeks
   
 
 # Jobs
