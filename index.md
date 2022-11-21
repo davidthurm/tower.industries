@@ -69,3 +69,10 @@ If you treat it like a full time job 8am - 5pm Monday thru Saturday you can comp
   [Vmware Advantage](https://www.vmug.com/membership/vmug-advantage-membership/) -- $200/yr
 
   [Splunk Free Trial](https://www.splunk.com/en_us/download.html?locale=en_us)  -- Free
+  
+  # Twitter
+  @awscloud
+  #cloudcomputing
+  
+  
+  
