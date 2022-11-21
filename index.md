@@ -12,7 +12,9 @@ Start with:
   
   
 # Online Training Sites
-A Cloud Guru:  https://acloudguru.com/  $350/yr
+[A Cloud Guru](https://acloudguru.com/)  $350/yr
+Udemy -- https://www.udemy.com/courses/search/?src=ukw&q=security+plus
+
 
 
 # DOD Programs
