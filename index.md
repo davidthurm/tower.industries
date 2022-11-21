@@ -1,14 +1,14 @@
 
 
 # Free Training
-[Splunk](https://workplus.splunk.com/veterans)
+[Splunk](https://workplus.splunk.com/veterans) -- Main Logging solution for the whole world. SIEM Security Information and Event Management
 
 
 ### [AWS Cloud Training](https://aws.training)
 
 Start with:
 
-  [AWS Cloud Practitioner Essentials](https://tinyurl.com/ybmwex5e)
+[AWS Cloud Practitioner Essentials](https://tinyurl.com/ybmwex5e)
   
 # Online Training Sites
 [A Cloud Guru](https://acloudguru.com/) -- $350/yr
