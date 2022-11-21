@@ -1,7 +1,9 @@
 # Security Tool Training
-[Splunk](https://workplus.splunk.com/veterans) -- Main Logging solution for the whole world. SIEM (Security Information and Event Management)
+## [Splunk](https://workplus.splunk.com/veterans)
 
-[Palo Alto Networks](https://beacon.paloaltonetworks.com/student/catalog/list?category_ids=25395-fundamentals)
+Main Logging solution for the whole world. SIEM (Security Information and Event Management)
+
+## [Palo Alto Networks](https://beacon.paloaltonetworks.com/student/catalog/list?category_ids=25395-fundamentals)
 
 [Create Account](https://beacon.paloaltonetworks.com/student/page/930397-customer-registration?sid_i=1) -- for access to free training.
 
