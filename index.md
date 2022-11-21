@@ -6,7 +6,7 @@
 
 Start with:
 
-  [AWS Cloud Practitioner Essentials](https://tinyurl.com/ybmwex5e)
+  [AWS Cloud Practitioner Essentials](https://tinyurl.com/ybmwex5e) -- Free
   
 # Online Training Sites
   [A Cloud Guru](https://acloudguru.com/) -- $350/yr
@@ -17,7 +17,7 @@ Start with:
   [Pluralsite](https://www.pluralsight.com/) -- $300/yr
 
 ## Programming Sites
-  [Python Coding](https://www.freecodecamp.org/news/freecodecamp-python-courses-ranked-from-best-to-worst/)
+  [Python Coding](https://www.freecodecamp.org/news/freecodecamp-python-courses-ranked-from-best-to-worst/) -- Free
 
 # DOD Programs
   [SkillBridge](https://doi.gov/veterans/skillbridge)
@@ -36,19 +36,20 @@ If you treat it like a full time job 8am - 5pm Monday thru Saturday you can comp
 
   [Veteran Program](https://www.wgu.edu/student-experience/learning/military-va.html)
 
-  [Nashville Software School](https://nashvillesoftwareschool.com/)
+## [Nashville Software School](https://nashvillesoftwareschool.com/) -- $18k for 36 weeks
+  
 
 # Jobs
 
   [Accenture Federal Services](https://www.accenture.com/us-en/careers/local/military-veterans)
 
 # Home Lab
-  [Install Linux on your windows computer](https://learn.microsoft.com/en-us/windows/wsl/install)
+  [Install Linux on your windows computer](https://learn.microsoft.com/en-us/windows/wsl/install)  -- Free
 
-  [Setup a Free AWS cloud account](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
+  [Setup a Free AWS cloud account](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)  -- Free Tier
 
-  [Okta for Developers](https://developer.okta.com/signup/)
+  [Okta for Developers](https://developer.okta.com/signup/) -- Free
 
   [Vmware Advantage](https://www.vmug.com/membership/vmug-advantage-membership/) -- $200/yr
 
-  [Splunk Free Trial](https://www.splunk.com/en_us/download.html?locale=en_us)
+  [Splunk Free Trial](https://www.splunk.com/en_us/download.html?locale=en_us)  -- Free
