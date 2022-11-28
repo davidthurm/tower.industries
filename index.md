@@ -7,6 +7,9 @@ Main Logging solution for the whole world. SIEM (Security Information and Event 
 
 [Create Account](https://beacon.paloaltonetworks.com/student/page/930397-customer-registration?sid_i=1) -- for access to free training.
 
+## [Fortinet Firewalls](https://www.fortinet.com/training/cybersecurity-professionals)
+
+
 ## [AWS Cloud Training](https://aws.training)
 
 [AWS Cloud Practitioner Essentials](https://tinyurl.com/ybmwex5e) -- Free
@@ -18,6 +21,11 @@ Main Logging solution for the whole world. SIEM (Security Information and Event 
 
 
   [Pluralsite](https://www.pluralsight.com/) -- $300/yr
+  
+  [Web Security](https://www.hacker101.com/) -- Free
+  
+  [Free Training List](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content)
+  
 
 # Certifications
 [Security Plus](https://www.comptia.org/certifications/security) -- $392
