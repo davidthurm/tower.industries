@@ -26,7 +26,6 @@ Main Logging solution for the whole world. SIEM (Security Information and Event 
   
   [Free Training List](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content)
   
-  [NSA Sponsored Education Institutions](https://www.nsa.gov/Academics/Centers-of-Academic-Excellence/)
   
 
 # Certifications
@@ -51,6 +50,8 @@ Main Logging solution for the whole world. SIEM (Security Information and Event 
   
 
 # College Programs
+
+## [NSA Sponsored Education Institutions](https://www.nsa.gov/Academics/Centers-of-Academic-Excellence/)
 
 ## [Syracuse University](https://veterans.syr.edu/)
 [Additional Info](https://ivmf.syracuse.edu/)
